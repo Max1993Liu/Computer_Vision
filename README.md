@@ -1,1 +1,1 @@
-### Learning notes on computer vision.
+### Notes on computer vision.
